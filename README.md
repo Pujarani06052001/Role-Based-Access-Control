@@ -1,4 +1,5 @@
 Role-Based Access Control (RBAC) UI 🛠️🔐
+
 A React.js and CSS-based project implementing a user-friendly and secure Role-Based Access Control (RBAC) system. This project includes a Dashboard, Timeline, Overview, Board, Login/Signup pages, and other core RBAC features to manage users, roles, and permissions.
 
 Features
@@ -21,6 +22,7 @@ Copy
 Edit
 git clone https://github.com/your-username/rbac-ui.git
 cd rbac-ui
+
 Install dependencies:
 bash
 Copy
@@ -31,6 +33,7 @@ bash
 Copy
 Edit
 npm start
+
 Open in your browser: http://localhost:3000 🌍
 Future Enhancements
 Integrate real APIs for data handling 🚀
